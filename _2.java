@@ -12,7 +12,7 @@ public class _2 {
         }
 
         for (int i = 0; i < newarr.length; i++) {
-            System.out.println("newarr[" + i + "]=" + newarr[i]);
+            System.out.println("newarr[" + i + "]=" + newarr[i]); // time complexity is O(n)  and space complexity is O(1) as no new space is used 
         }
     }
 }
