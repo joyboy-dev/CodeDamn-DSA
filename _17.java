@@ -14,7 +14,6 @@ public class _17 {
     }
 
     public static int powN_usingRecursion(int x, int n) {
-        int result=1;
         if (n==1) {
             return x;
         }
